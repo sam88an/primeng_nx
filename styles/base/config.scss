@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+}
+admin-root {
+  width: 100%;
+}
+router-outlet {
+  width: 100%;
+}
